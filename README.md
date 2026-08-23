@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+
+<div align="center">
+
+<img src="./assets/data-flow.svg" alt="Omar Data Analytics Workflow" width="100%">
+
+</div>
+
 <!--
 **amr-jaber/amr-jaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
