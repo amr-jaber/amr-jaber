@@ -5,6 +5,12 @@
 
 Here are some ideas to get you started:
 
+<div align="center">
+
+<img src="./assets/data-flow.svg" alt="Omar Data Analytics Workflow" width="100%">
+
+</div>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
