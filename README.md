@@ -89,7 +89,7 @@ I am open to collaborating on data analysis projects, business intelligence solu
 
 - **GitHub:** [@amr-jaber](https://github.com/amr-jaber)
 - **LinkedIn:** Add your LinkedIn profile link
-- **Email:** Add your professional email address
+- **Email:** jaberamr@icloud.com
 
 <div align="center">
 
