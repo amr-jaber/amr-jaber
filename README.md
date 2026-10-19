@@ -72,7 +72,7 @@ Actionable Recommendations
 
 | Project | Description | Focus |
 | --- | --- | --- |
-| **  ** | ____ | - · - |
+| [terrorism-data-analysis](https://github.com/amr-jaber/terrorism-data-analysis ) | A Python-based dashboard for analyzing global terrorism attacks using data visualization, statistics, and machine learning models. | Python · CustomTkinter · Pandas · Matplotlib · Seaborn · Scikit-learn · SQLite |
 | **  ** | ____ | - · - |
 | **  ** | ____ | - · - |
 
